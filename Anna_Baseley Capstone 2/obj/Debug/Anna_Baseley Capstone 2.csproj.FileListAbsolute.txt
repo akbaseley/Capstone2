@@ -1,0 +1,7 @@
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\bin\Debug\Anna_Baseley Capstone 2.exe.config
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\bin\Debug\Anna_Baseley Capstone 2.exe
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\bin\Debug\Anna_Baseley Capstone 2.pdb
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\obj\Debug\Anna_Baseley Capstone 2.csprojResolveAssemblyReference.cache
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\obj\Debug\Anna_Baseley Capstone 2.csproj.CoreCompileInputs.cache
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\obj\Debug\Anna_Baseley Capstone 2.exe
+C:\Users\akbas\Documents\GrandCircus\Capstone Projects\Anna_Baseley Capstone 2\Anna_Baseley Capstone 2\obj\Debug\Anna_Baseley Capstone 2.pdb
